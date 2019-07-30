@@ -5,7 +5,7 @@ import java.time.Instant;
 import java.util.HashMap;
 import java.util.Map;
 
-public class MemoizationRecursiveFibonacci {
+public class MemoizationFibonacci {
 
   // Memoization - remember the past result and uses them to find new results
   // Uses Maps
